@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094063639192",
+    "project_id": "enimrobot6",
+    "storage_bucket": "enimrobot6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094063639192:android:bff19c8e5369d734565eed",
+        "android_client_info": {
+          "package_name": "com.goodbarber.enimrobot6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094063639192-j1acmuqta83a4pe08m9sqg7vvqpt6hnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZnKmjVphRW8TDkOvrCDX8yKEmfGre0Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094063639192-j1acmuqta83a4pe08m9sqg7vvqpt6hnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
